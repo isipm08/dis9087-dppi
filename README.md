@@ -1,1 +1,1 @@
-# DIS9087-DISPOSITIVOS-PERIFERICOS
+# dis9087-disp.-perif.
