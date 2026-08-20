@@ -17,14 +17,21 @@ Santiago Gaete
 - percepción -- cuerpo = experiencia del mundo es corpórea y situada
 - cuestionar límites realidad
 
+- sensores -- procesador -- actuador
+  - diseñamos sistemas que seleccionan fenómenos del mundo , traduciéndolo en datos y actúan a partir de una interpretación.
+    
 - fenómeno: algo que ocurre en el mundo
 - percepción: organismo posee características para relacionarse
 - representación: construir forma de describir algo
 - interpretación: atribuir significado
   
+"Nuestra experiencia del mundo es corpórea y situada" -- no observamos el mundo desde afuera, si no que estamos inmersos en este corporalmente
+
+- *cuerpo en relación a otros*
+- lo que somos capaces de experimentar depende parcialmente de lo que nuestro cuerpo puede hacer
 *sensores - procesador - actuador*
 
-**semiótica** -- estudia signos, símbolos, procesos, producimos e interpretamos significado
+**semiótica** -- estudia signos, símbolos, procesos, los cuales producimos e interpretamos significado
 - ícono: relación semejanza
 - índice: relación causa - efecto
 - símbolos: convenciones sociales, acuerdos tácitos
@@ -34,10 +41,10 @@ Santiago Gaete
 - signo: resultado unir significante y significado 
 
 *cuerpo humano*
-mundo/entorno -- cuerpos/sentidos -- interpretación -- acción
+mundo/entorno (estímulo) -- cuerpos/sentidos (percepción) -- interpretación (significado) -- acción
 
 *máquinas*
- mundo/entorno -- sensor -- 
+ mundo/entorno (fenómeno físico) -- sensor (señal) -- interpretación (decisión) -- acción
 
 ## Tarea 01
 - Seleccionar un objeto cotidiano y establecer una relación entre: realidad, sensor, dato, significado, acción.
