@@ -17,12 +17,33 @@
 - lenguaje potente, versátil, sintaxis "sencilla"
 - intenta emular lenguaje natural en código escritura
 - capacidad conectarse a diferentes dispositivos, librerías
+- limpiar información
+- analizar grandes conjuntos de datos
+- calcular estadísticas
+- construir gráficos
+- identificar patrones
+- preparar información para modelos predictivos
+- entrenar modelos
+- procesar datos
+- clasificar imágenes
+- analizar textos
+- reconocer voces
+- construir sistemas predictivos
+- experimentar con redes neuronales
 
 ### proyecto
 python (ordena y clasifica info) -- open cv (captura imágenes, open source computer version) -- media pipe (reconocer elementos naturales)
 
 ### librerías 
-
+- NumPy
+- pandas
+- Matplotlib
+- SciPy
+- PyTorch
+- TensorFlow
+- scikit-learn
+- MediaPipe
+- Transformers
 ### ejercicio 1 
 
 powershell
