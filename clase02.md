@@ -46,4 +46,12 @@ python (ordena y clasifica info) -- open cv (captura imágenes, open source comp
 - Transformers
 ### ejercicio 1 
 
-powershell
+Poner esto en powershelf
+
+Set-Location "C:\Users\isido\OneDrive - mail.udp.cl\Escritorio\disp-perif\ejercicio 1\gatos-main"
+
+py -m http.server 8000
+
+luego abrir localhost:8000 en navegador
+
+![titulo](./imagenes/python.png)
