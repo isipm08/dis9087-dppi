@@ -12,17 +12,19 @@ autora repo: catherinee.md
 ### Inteligencia Artificial
 - rama ciencias de la computación orientada al diseño y desarrollo, capaces de realizar tareas ejecutadas por humanos, que requerirán el ejercicio de la inteligencia
 - motores IA -- machine learning -- Deep Learning
+- optimización estadística -- redes neuronales artificiales extraen representaciones jerárquicas de los datos
 - entrenamiento humano, en el cual luego empieza un aprendizaje automático y las máquinas son capaces de corregirse por si mismas
 - IA -- qué es lo más probable, posible -- entrenadas a responder
 - sesgo humano siempre dentro de la máquina
 - nos permite acelerar procesos
+- predice, no verifica, su fluidez no garantiza su veracidad
 
 - Jianwei Xun
 
 ### Conflictos IA
-- conflicto medioambiental: algunos centros de datos que sostienen la IA, utilizan agua como sistema de refrigeración
+- conflicto medioambiental: algunos centros de datos que sostienen la IA, utilizan agua como sistema de refrigeración, proponer el uso responsable de esta, ya que se realiza un efecto adverso en el entorno que habitamos
 - conflicto laboral: presenta tendencia sostenida hacia la adopción de herramientas de la inteligencia artificial
-- conflicto del sesgo: amplificación sesgo según origen cultural, geográfico e ideológico de los datos, representación distorsionada
+- conflicto del sesgo: ia entrenada con datos existentes, amplificación sesgo según origen cultural, geográfico e ideológico de los datos, representación distorsionada
 - propiedad intelectual/ autoría: generar contenido nuevo a partir de patrones extraídos
 
 ### Alucinaciones
@@ -36,9 +38,9 @@ límite procesamiento cerebral
 - máquinas de procesamiento y generación del lenguaje
 - generación -- producción texto original
 - comprensión -- extracción ideas, conceptos, palabras
-- transformación -- resumir, expandir, cambiar tono
+- transformación -- resumir, expandir, cambiar tono, estructurar
 - razonamiento -- inferencias, postura, argumentación
-- conversación -- 
+- conversación -- mantener hilo de diálogo
 
 ### LLM contexto acotado
 - respuestas enfocadas solo con información otorgada por el usuario
@@ -46,6 +48,9 @@ límite procesamiento cerebral
 - buenas herramientas para analizar información, estudiar, contrastar datos
   
 ```
+Deepseek
+Perplexity
+Gemini
 NotebookLM
 Claude cowork
 Consensus
@@ -56,8 +61,8 @@ SCIBOT
 ```
 CREA
 contexto -- define elementos a trabajar, objetivos generales o entregables
-rol -- tareas que debería saber en relación al contexto
-expectativa -- qué espero que salga, códigos, imágenes, etc
+rol -- tareas que debería saber en relación al contexto, asigna especialidad, área o punto de vista
+expectativa -- qué espero que salga, códigos, imágenes, tipo entregable, orden, estructura, formato
 aplicación -- límites, que no puede hacer, antes que me de resultados, que haga todas las preguntas que tiene o que explique lo que hará
 ```
 ```
