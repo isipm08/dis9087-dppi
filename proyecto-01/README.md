@@ -43,15 +43,15 @@ https://github.com/catherpiee/meowmeowcatcam
 ## Gestos
 | # | *Gesto* | *Cómo se activa*| *imagen* |
 | --- | --- | --- | --- |
-| 1 | Silly hamster | Predeterminado cuando no se realiza ningún gesto | ![titulo](./memes/sillyhamster.jpeg)
-| 2 | Corazón hamster | Realizar un corazón coreano con ambas manos, juntando pulgar e índice | ![titulo](./memes/corazonhamster.jpeg)
-| 3 | Feliz hamster | Sonrisa con boca abierta | ![titulo](./memes/felizhamster.jpeg)
-| 4 | Gym hamster | Puño levantado junto a la cabeza | ![titulo](./memes/gymhamster.jpeg)
-| 5 | Hamster | Ambas palmas semi  juntas | ![titulo](./memes/hamster.jpeg)
-| 6 | Muehjej hamster |Unir las puntas de ambos índices | ![titulo](./memes/muehjejhamster.jpeg)
-| 7 | No sé hamster |Levantar ambas palmas abiertas hacia arriba y hacia los lados | ![titulo](./memes/nosehamster.jpeg)
-| 8 | Paz hamster | Una mano con dedos índice y dedo medio levantados, los demás dedos cerrados en forma de semi puño | ![titulo](./memes/pazhamster.jpeg)
-| 9 | Pizza hamster | Ambas manos con 4 dedos estirados apuntándose entre si | ![titulo](./memes/pizzahamster.jpeg)
+| 1 | Silly hamster | Predeterminado cuando no se realiza ningún gesto | ![titulo](./imagenes/sillyhamster.jpeg)
+| 2 | Corazón hamster | Realizar un corazón coreano con ambas manos, juntando pulgar e índice | ![titulo](./imagenes/corazonhamster.jpeg)
+| 3 | Feliz hamster | Sonrisa con boca abierta | ![titulo](./imagenes/felizhamster.jpeg)
+| 4 | Gym hamster | Puño levantado junto a la cabeza | ![titulo](./imagenes/gymhamster.jpeg)
+| 5 | Hamster | Ambas palmas semi  juntas | ![titulo](./imagenes/hamster.jpeg)
+| 6 | Muehjej hamster |Unir las puntas de ambos índices | ![titulo](./imagenes/muehjejhamster.jpeg)
+| 7 | No sé hamster |Levantar ambas palmas abiertas hacia arriba y hacia los lados | ![titulo](./imagenes/nosehamster.jpeg)
+| 8 | Paz hamster | Una mano con dedos índice y dedo medio levantados, los demás dedos cerrados en forma de semi puño | ![titulo](./imagenes/pazhamster.jpeg)
+| 9 | Pizza hamster | Ambas manos con 4 dedos estirados apuntándose entre si | ![titulo](./imagenes/pizzahamster.jpeg)
 
 ## Ajustes de detección
 
