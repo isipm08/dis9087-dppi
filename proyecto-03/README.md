@@ -1,6 +1,10 @@
 # Proyecto 03
 ## ¿Cómo ser capaces de modificar la realidad en la que estamos situados?
 
+<https://fefeliperoar.github.io/slit-scan/>
+
+<https://github.com/fefeliperoar/slit-scan>
+
 Realiza un video de 30 a 45 segundos que haga visible el paso del tiempo, construido con frames extraídos de uno o más videos en la herramienta Slit Scan.Links to an external site. Acompañalo con un texto breve que explique cómo lo hiciste y qué piensas del tiempo como material de diseño.
 
 El objetivo es explorar el video no solo como imágenes que cambian, sino como un volumen de momentos que puedes ordenar, deformar y recorrer. Te interesa menos contar una historia y más que se note el tiempo: que se acumule, se estire, se repita o cambie de color.
