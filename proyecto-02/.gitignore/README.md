@@ -1,1 +1,11 @@
+# Archivos del sistema y del editor
+.DS_Store
+Thumbs.db
+desktop.ini
+.vscode/
+
+# Archivos temporales
+*.tmp
+*.log
+*~
 
