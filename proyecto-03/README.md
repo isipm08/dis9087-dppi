@@ -5,47 +5,17 @@
 
 <https://github.com/fefeliperoar/slit-scan>
 
-Realiza un video de 30 a 45 segundos que haga visible el paso del tiempo, construido con frames extraídos de uno o más videos en la herramienta Slit Scan.Links to an external site. Acompañalo con un texto breve que explique cómo lo hiciste y qué piensas del tiempo como material de diseño.
 
-El objetivo es explorar el video no solo como imágenes que cambian, sino como un volumen de momentos que puedes ordenar, deformar y recorrer. Te interesa menos contar una historia y más que se note el tiempo: que se acumule, se estire, se repita o cambie de color.
+Este proyecto nace más allá de un encargo, si no que también plantea la interrogante de cómo somos capaces de modificar y reinterpretar la realidad en la que nos situamos. A partir de esta premisa, se profundiza en la fragilidad de la temporalidad, en la percepción de nuestro entorno y en los trayectos que realizamos diariamente, los cuales, aunque parecen repetitivos, son cambiantes y singulares. 
 
-### La herramienta
+Los videos que utilicé para este trabajo son de autoría propia, he recopilado videos a lo largo del semestre, los cuales relatan segundos breves de mis recorridos diarios hacia la universidad. Aunque originalmente los videos tienen como fin un proyecto a largo plazo, decidí integrarlos en este trabajo, ya que sentía que iban bien con la temática y a lo que quería llegar realizando este trabajo. 
 
-Trabajarás en Tiempo e imagen: Slit ScanLinks to an external site., que corre en el navegador. Tus videos no se suben a ningún servidor: todo se procesa en tu equipo.
+Durante el proceso con Slit-Scan, la exploración principal consistió en teñir la imagen en función del tiempo, lo que aportó fluidez y dinamismo al video. Se trabajó con un alto volumen de frames a distancias mínimas para, al momento de generar ondas mediante el apartado de escala, la continuidad fuera evidente en vista isométrica. Asimismo, la integración de animación, al momento de incorporarlo aportó vitalidad al trabajo, al apreciarla desde la vista frontal, la estructura cobró una tridimensionalidad, por el cual decidí mantener esta perspectiva como la principal, además de que se apreciaba de mejor manera el trabajo realizado. 
 
-La herramienta separa un video en frames y los apila en el espacio 3D. Sobre esa pila puedes trabajar con:
+Acá se visualizan capturas de pantalla de las vistas isométricas y una frontal, para poder destacar en su totalidad el proyecto.
 
-- Distancia y orden: qué tan separados están los frames y en qué sentido.
-- Escala: constante, lineal u onda, a partir de un frame de referencia.
-- Rotación: un giro acumulado frame a frame.
-- Opacidad y edge fade: qué tan visibles son los frames y cómo se desvanecen sus bordes.
-- Procesar imagen: recortar por brillo o color, mostrar solo lo que cambia entre frames y teñir según el momento.
-- Animación: keyframes que mueven la cámara y los parámetros en el tiempo.
-- Exportar: frames, capturas y videos frontal, en vista 3D o de la animación.
-- El video
-- Tu composición final dura entre 30 y 45 segundos y está armada con material exportado desde la herramienta.
+El desarrollo de este trabajo me permitió comprender el tiempo como una materia frágil y cambiante. En el cual nosotros tenemos la capacidad de influir en el tiempo-momento, adaptarlo, estirarlo o pintarlo desde nuestra subjetividad. En el ámbito del diseño, se redefine la temporalidad como una estructura no lineal, en donde se nos otorga la posibilidad de "romper el tiempo" para reestructurarlo, transformándolo en un material lleno de cambios dentro de nuestra práctica personal y cotidiana. 
 
-1. Fuente: uno o más videos, grabados por ti o de uso libre. Si usas material de terceros, indica su origen en el texto.
-2. Material: los videos, capturas y frames que exportes desde Slit Scan. Puedes combinarlos, cortarlos y ordenarlos en cualquier editor de video (CapCut, Premiere, DaVinci Resolve u otro).
-3. Tema: el paso del tiempo tiene que ser evidente. Puedes trabajarlo con la escala (el tiempo que crece o se encoge), el color (el tiempo teñido de inicio a fin) o la distorsión de la imagen misma (acumulación, giro, estelas, recortes).
-4. Sonido: es opcional. Si lo usas, debe ser parte de la propuesta y no solo un fondo.
-5. Piensa la composición como una pieza completa, con un inicio, un desarrollo y un cierre, aunque no cuente una historia.
+Mejoras para la herramienta: Me gustaría que se pudiesen guardar los procesos y trabajos, así poder tener respaldos de videos anteriores realizados en esta. También otra mejora a implementar es que la página en sí sea más intuitiva, quizá al momento de pasar el cursor sobre una de las funciones, esta te muestre una leve descripción de lo que realiza. 
 
-### El texto
-El video va acompañado de un texto de una página como máximo (unas 400 a 600 palabras), organizado en tres partes.
-
-- Uso de la herramienta y decisiones. Explica qué videos usaste y por qué, qué funciones de Slit Scan aplicaste y con qué valores aproximados. Cuenta qué probaste y descartaste, y por qué elegiste lo que quedó. Incluye dos o tres capturas del proceso.
-- Reflexión sobre el paso del tiempo. ¿Qué aprendiste o descubriste del tiempo al verlo como algo que se apila, se estira o se tiñe? ¿Qué muestra tu video que un video normal no muestra?
-- Mejoras para la herramienta. Propón al menos dos mejoras concretas: qué te faltó, qué te costó o qué función nueva te habría permitido llegar más lejos. Explica para qué la usarías.
-  
-### Proceso sugerido
-- Elige o graba tus videos. Funcionan mejor los clips cortos (3 a 15 segundos) con movimiento claro: una persona que camina, un objeto que cae, luces que cambian. La cámara fija ayuda a que el paso del tiempo se lea mejor.
-- Carga y extrae. En el paso 2, elige el tramo y los frames por segundo. Entre 40 y 150 frames suele ser un buen rango para empezar.
-- Explora. Prueba la distancia entre frames, la escala, el giro, la opacidad y el procesamiento de imagen. Cambia entre las vistas Libre, Frontal e Isométrica. Toma capturas de lo que te interese.
-- Anima. Crea keyframes para mover la cámara y los parámetros, o usa los atajos de órbita y recorrido de frames.
-- Exporta. Descarga los videos y capturas que necesites. Repite con otras configuraciones o con otros videos.
-- Edita. Arma la composición de 30 a 45 segundos en tu editor de video.
-- Escribe. Redacta el texto mientras el proceso está fresco, con tus capturas a mano.
-- La herramienta no guarda tu trabajo: si cierras o recargas la página, se pierde la configuración. Anota los valores que te gusten y exporta seguido.
-
-Entregables: archivo mp4 y archivo de texto que contenga su reflexión.
+En conclusión, este proyecto muestra cómo la práctica en el ámbito del diseño puede transformar el tiempo cotidiano en una materia prima cambiante, expresiva y no lineal. A través del registro audiovisual realizado de trayectos rutinarios y la manipulación de obras audiovisuales en Slit-Scan, los videos dejan de ser solo una simple secuencia, para así convertirse en un volumen tridimensional que cuestiona la fragilidad de la temporalidad. En última instancia, se evidencia el rol importante y activo del usuario no solo como un observador de la realidad, sino como un agente capaz de reestructurar el tiempo-momento.
