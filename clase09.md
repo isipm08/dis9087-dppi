@@ -13,6 +13,16 @@ experiencia perceptual
 - escuchar sonido sin ver la fuente que lo produce
 - el sonido aparece como algo en sí mismo -- objeto sonoro
 - sonido como objeto capáz de controlarlo
+- música electroacústica compuesta para ser transmitida con altavoces
+- música experimental
+- existen como grabaciones de audio
+- se oye sin poder distinguir su causa
+- tecnologías musicales: grabación digital sonido, procesamiento digital de señales, estaciones de trabajo de audio digital
+- organización de sonido
+- sonido como recurso primario para la composición musical
+
+<https://es.wikipedia.org/wiki/M%C3%BAsica_acusm%C3%A1tica>
+
 ### tres modos escucha
 1. causal -- buscar fuente ¿qué lo produjo?
 2. semántica -- interpretación ¿qué significa?
@@ -59,7 +69,6 @@ experiencia perceptual
 - cámara enecoica
 
 ### links complementarios
-<https://es.wikipedia.org/wiki/M%C3%BAsica_acusm%C3%A1tica>
 
 <https://andreaferreiro.wordpress.com/2014/07/03/la-acusmatica-de-los-oidores-lo-oido-y-la-forma-del-oir/>
 
