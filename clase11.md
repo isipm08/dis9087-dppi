@@ -20,3 +20,5 @@ interconexiones
 - tomar sensores a través del tacto
 - alguien se conecte y mande información
 - manejar sensores telefono, factores imagen y audio, que sucede desde el otro lado
+
+<https://www.emqx.com/en>
