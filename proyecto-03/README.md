@@ -1,4 +1,4 @@
-# Proyecto 03
+# T04_SlitScan
 ## ¿Cómo ser capaces de modificar la realidad en la que estamos situados?
 
 <https://fefeliperoar.github.io/slit-scan/>
