@@ -1,4 +1,4 @@
-# tarea-02
+# T02_Repositorio_gatos
 
 ## Integrantes
 
