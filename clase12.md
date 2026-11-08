@@ -57,3 +57,5 @@ háptica (palabra técnica) = tacto + movimiento (mundo digital) -- factores, ma
 ## ¿Qué podemos leer de un toque?
 
 TDLIDA
+
+Tangible media group
