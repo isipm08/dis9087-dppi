@@ -52,7 +52,7 @@ mundo/entorno (estímulo) -- cuerpos/sentidos (percepción) -- interpretación (
 1.¿Qué fenómeno puede detectar este objeto?
 La absorción de la luz durante la circulación de la sangre. Pulsaciones por minuto y oxigenación en la sangre.
 
-2. ¿Qué parte del fenómeno transforma en información?
+2.¿Qué parte del fenómeno transforma en información?
 La luz roja e infrarroja. Roja: pulso cardíaco Inflaroja: capacidad de traspasar.
 
 3.¿Qué dato produce realmente?
