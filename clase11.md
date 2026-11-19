@@ -16,17 +16,6 @@ interconexiones
 - broker: interfaz - transacción
 - EMQX
 
-### ¿qué es MQTT?
-
-message queuing telemetry transport -- protocolo mensajes pequeños
-
-- teléfono A: sala
-- teléfono B: sala
-- ESP32: sala
-- experiencia web
-- node-RED
-- script python
-  
 ### tarea 07
 - tomar sensores a través del tacto
 - alguien se conecte y mande información
