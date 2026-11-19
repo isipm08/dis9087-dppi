@@ -26,6 +26,7 @@ sierra: armónicos, brillante
   
 ## notas
 - convención sobre una frecuencia
+  
 ## filtros
 - seleccionar partes del expectro
 - pasa bajos: dejar pasar las bajas
@@ -33,18 +34,33 @@ sierra: armónicos, brillante
 - pasa banda: seleccionar región, segmento
 - rechaza banda: elimina región
 
+## maping
+- decisión diseño central de un instrumento dgital
+
+**precedentes**
+- theremin
+- videoplace
+- very nervous system
+- messa di voce
+  
 ## oír la luz
 - zonas: cada celda de grilla es una tecla
+- línea fija: video la toca y suena
+- varías líneas: cada línea es un sonido o envolvente distinta
+- escáner: recorre la imagen como partitura
 
 ## reglas
-- color: 
-- tamaño:
-- dirección:
-- cantidad:
-- cuerpo:
-- tiempo:
+- color: cada color dispara sonido
+- tamaño: grande > grave pequeño > agudo
+- dirección: mueve el sonido en el espacio (pan)
+- cantidad: más cambio imagen > más densa lluvia
+- cuerpo: mediapipe, cada mano o dedo es un instrumento
+- tiempo: quieto mucho rato igual puede sonar
 
-
+## oscilador -- cualquier sonido
+- semejanza: lo que se ve suena a sí mismo
+- contraste: lo que se ve suena otra cosa
+- traducción: dato imagen controla cualidad sonido
 
 
 
